@@ -1,5 +1,5 @@
 Material:
-	- leitor RFID;
+	- 1 leitor RFID;
 	- 4 sensores de presença de veículos (HC-SR04);
 	- 5 LEDs (1 LED verde e 1 LED vermelho);
 	- 1 servo;
